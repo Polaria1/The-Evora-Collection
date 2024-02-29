@@ -19,3 +19,4 @@ Giant, space-faring rodents. No, not the Hai (although they were kind of inspire
 The Wabbajack of Endless Sky aliens. Ever wanted to weaponize a planet?
 
 # MOD IS CURRENTLY NON-FUNCTIONAL; THIS IS MY FIRST EVER MOD, SO IT WILL TAKE A LONG TIME
+(seriously, don't download this, it's just a readme.md right now)
